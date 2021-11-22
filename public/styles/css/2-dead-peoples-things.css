@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+.dead-land {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.dead-land .text {
+  grid-column: 1;
+  margin: auto;
+}
+.dead-land .image {
+  grid-column: 2 / 4;
+}
+.dead-land .image img {
+  width: 100%;
+}
+.things {
+  display: grid;
+  grid-template-rows: repeat(3, 100vh);
+}
+.things .row {
+  display: grid;
+  grid-template-columns: repeat(6, 50vw);
+  margin: 20vh;
+}
