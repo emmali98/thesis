@@ -1,3 +1,3 @@
 # thesis
 
-Senior Thesis in AFVS
+Senior Thesis Fall 2021
