@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+}
+.second {
+  margin: 4% 10vw 5vw;
+}
+.second .break {
+  margin: 10% 0 0 5vw;
+}
+.approach img {
+  margin-left: 15vw;
+  width: 25vw;
+}
+.landscape img {
+  width: 100vw;
+  margin: 10vw 0;
+}
+.fall {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 50vw;
+}
+.fall #falling {
+  width: 30vw;
+  margin: 5vw 9vw;
+}
+.fall #ground {
+  width: 50vw;
+  margin: 7vw;
+  margin-left: 0;
+}
+.second-time {
+  margin-left: 98vw;
+  margin-bottom: 32vw;
+  width: 50vw;
+}
+.second-time p {
+  margin-top: -12vw;
+  margin-left: 4vw;
+}
+.second-time img {
+  width: 50vw;
+}
+.forest {
+  margin-left: 105vw;
+  margin-bottom: 5vw;
+  width: 100vw;
+}
+.forest p {
+  margin: 10vw;
+}
+.forest img {
+  width: 90vw;
+  margin: auto;
+  display: block;
+}
