@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+.wide-shots {
+  margin: 5vw 0;
+}
+.wide-shots img {
+  width: 100vw;
+  margin-bottom: 2vw;
+}
+.forget {
+  margin-left: 20vw;
+}
+.convo {
+  margin: 15vw 0 15vw 60vw;
+}
+.convo .girl {
+  color: #ce4b00;
+  margin-left: 2vw;
+}
+.convo .robot {
+  color: #374a83;
+  margin-left: 8vw;
+}
+.convo .italic {
+  font-style: italic;
+}
