@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+.image {
+  z-index: 0;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.image img {
+  margin: 10vw 0;
+  width: 60vw;
+}
+p {
+  position: absolute;
+}
+.hi {
+  top: 15vw;
+  left: 29vw;
+}
+.name {
+  top: 32vw;
+  left: 50vw;
+}
+.come-here {
+  top: 37vw;
+  left: 50vw;
+}
+.friendly {
+  top: 52vw;
+  left: 33vw;
+}
+.hmm {
+  top: 61vw;
+  left: 33vw;
+}
+.full-name {
+  top: 66vw;
+  left: 33vw;
+}
+.lovely-1 {
+  top: 78vw;
+  left: 50vw;
+}
+.lovely-2 {
+  top: 82vw;
+  left: 51vw;
+}
+.robot {
+  top: 110vw;
+  left: 50vw;
+}
