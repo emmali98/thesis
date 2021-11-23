@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+.across {
+  margin: 10vw;
+  width: 200vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.across img {
+  width: 30vw;
+}
+.across #across-1 {
+  margin-top: -2vw;
+}
+.across #across-2 {
+  margin-top: 3vw;
+}
+.across #across-3 {
+  margin-top: 10vw;
+  margin-left: 8vw;
+  margin: 10vw 15vw 0 8vw;
+}
+.faces {
+  width: 200vw;
+}
+.faces img {
+  width: 33vw;
+  margin: 15vw 0 10vw 150vw;
+}
