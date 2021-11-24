@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+}
+.question {
+  width: 100vw;
+  height: 100vh;
+}
+.question p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.approach {
+  display: grid;
+  grid-template-columns: 30vw 30vw;
+  column-gap: 40vw;
+  row-gap: 10vw;
+}
+.approach .image {
+  margin: auto;
+}
+.approach .image.girl img {
+  width: 10vw;
+}
+.approach .image.robot img {
+  width: 18vw;
+}
+.confession {
+  position: absolute;
+  top: 100vh;
+  width: 100vw;
+}
+.confession p {
+  position: absolute;
+}
+.confession .bridge {
+  top: 10vw;
+  left: 30vw;
+}
+.confession .but {
+  top: 31vw;
+  left: 40vw;
+}
+.confession .they {
+  top: 46vw;
+  left: 41vw;
+}
+.confession .to {
+  top: 64vw;
+  left: 41vw;
+}
+.confession .like {
+  top: 96vw;
+  left: 38vw;
+}
+.confession .maybe {
+  top: 130vw;
+  left: 48vw;
+}
+.kill {
+  position: relative;
+  width: 100vw;
+  height: 200vh;
+}
+.kill p {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.kill #square {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.kill #square img {
+  width: 40vw;
+}
