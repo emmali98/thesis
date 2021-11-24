@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+}
+.pan-down {
+  width: 100vw;
+  padding: 5vw 0;
+}
+.pan-down p {
+  text-align: center;
+  margin: 7vw 0;
+}
+.pan-down img {
+  width: 40vw;
+  margin: auto;
+  display: block;
+}
+.anger {
+  width: 200vw;
+}
+.anger .ask {
+  margin: 20vw 0 0 10vw;
+}
+.anger .storms {
+  margin: 10vw 0 0 16vw;
+  text-indent: -1vw;
+}
+.anger .sea {
+  margin: 1.5vw 0 0 18vw;
+  text-indent: -2vw;
+}
+.anger .cities {
+  margin: 1.5vw 0 0 20vw;
+  text-indent: -1vw;
+}
+.anger .broken {
+  margin: 3vw 0 0 13vw;
+  text-indent: -0.5vw;
+}
+.anger .before {
+  margin: 0vw 0 0 32vw;
+  text-indent: 0.5vw;
+}
+.anger .even {
+  margin: 0px 0 0 37vw;
+}
+.anger .life {
+  margin: -4vw 0 0 64vw;
+}
+.anger .every {
+  margin: 3vw 0 0 72vw;
+}
+.anger .earn {
+  margin: 1vw 0 0 66vw;
+  text-indent: -4vw;
+}
+.anger .realize {
+  margin: 8vw 0 0 34vw;
+}
+.anger .did {
+  margin: 0 0 0 38vw;
+}
+.anger .hid {
+  margin: 26vw 0 3vw 25vw;
+}
+.anger .when {
+  margin: 11vw 0 0 40vw;
+  text-indent: -0.5vw;
+}
+.anger .when-2 {
+  margin: 0 0 0 39vw;
+  text-indent: 0.5vw;
+}
+.anger .when-3 {
+  margin: 0 0 0 40vw;
+  text-indent: -0.5vw;
+}
+.built {
+  margin-left: 40vw;
+}
+.built .when-4 {
+  margin: 8vw 0 0 10vw;
+  text-indent: -1vw;
+}
+.built .wrought {
+  margin-left: 0.5vw;
+}
+.built .bay {
+  margin-left: 1.5vw;
+}
+.built .me {
+  margin: 3vw 0 0 8vw;
+  text-indent: -1.5vw;
+}
+.built .bunkers {
+  margin-left: 4px;
+}
+.built .monsters {
+  margin: 1vw 0 0 8vw;
+  text-indent: 4px;
+}
+.built .outraged {
+  margin-left: -6px;
+}
+.built .disregard {
+  margin-left: -8px;
+}
+.built .woke {
+  margin: 11vw 0 10vw 13vw;
+  text-indent: -4vw;
+}
+.built .gone {
+  margin-left: 1vw;
+}
+.built .robots {
+  text-decoration: underline;
+}
+.wake-up {
+  width: 234vw;
+  position: relative;
+}
+.wake-up .sun {
+  display: flex;
+  width: fit-content;
+  margin-left: 35vw;
+  padding-right: 19vw;
+}
+.wake-up .sun img {
+  width: 40vw;
+  margin: 10vw;
+}
+.wake-up .pillow {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 60vw;
+  margin: 5vw 0 0 158vw;
+}
+.wake-up .pillow img {
+  width: 35vw;
+  margin: 2vw;
+}
+.wake-up .pillow div {
+  margin: auto;
+}
+.wake-up .pillow .text-1 {
+  text-indent: -0.5vw;
+}
+.wake-up .pillow .text-1 line-2 {
+  text-indent: 1vw;
+}
+.wake-up .pillow .text-2 {
+  text-indent: -1vw;
+}
+.wake-up .pillow .text-2 .line-2 {
+  text-indent: 0.5vw;
+}
+.wake-up .second-life {
+  margin: 21vw 0 0 173vw;
+  width: 21vw;
+}
+.wake-up .protector {
+  margin: 3vw 0 0 180vw;
+  width: 21vw;
+}
+.wake-up .his-eyes {
+  position: absolute;
+  right: 0;
+}
+.wake-up .his-eyes img {
+  width: 100vw;
+}
+.wake-up .his-eyes .text {
+  position: absolute;
+  right: 33vw;
+  bottom: 3vw;
+}
+.wake-up .fade-in {
+  position: absolute;
+  right: 23vw;
+  top: 210vw;
+}
+.wake-up .fade-in img {
+  width: 50vw;
+}
+.her-eyes {
+  margin: 235vw auto 0 149vw;
+}
+.her-eyes img {
+  width: 70vw;
+}
