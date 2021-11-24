@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+}
+#writing img {
+  margin: 10vw auto;
+  display: block;
+  width: 40vw;
+}
