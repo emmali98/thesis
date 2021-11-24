@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+}
+.indent-1 {
+  margin-left: -1vw;
+}
+.indent-2 {
+  margin-left: -0.5vw;
+}
+.marvin {
+  margin: 10vw 0 0 35vw;
+  width: 150vw;
+}
+.marvin #sling img {
+  width: 20vw;
+  margin: -7vw 0 0 -30vw;
+  position: absolute;
+}
+.marvin .leg {
+  margin: 10vw 0 0 6vw;
+  text-indent: -1.5vw;
+}
+.marvin .perverse {
+  margin-left: 7vw;
+  text-indent: -2vw;
+}
+.marvin .name {
+  margin: 8vw 0 0 5vw;
+  text-indent: -0.5vw;
+}
+.marvin .follow {
+  margin: 11vw 0 0 3vw;
+}
+.marvin .understand {
+  margin: 0 0 0 7vw;
+}
+.marvin #lap img {
+  width: 25vw;
+  margin: -10vw 0 0 40vw;
+  position: absolute;
+}
+.marvin .scared {
+  margin: 45vw 0 0 17vw;
+}
+.marvin .expect {
+  margin: 20vw 0 0 27vw;
+}
+.marvin .what-if {
+  margin: 5vw 0 0 27vw;
+}
+.marvin .can-tell {
+  margin: -1vw 0 0 32vw;
+}
+.marvin .about {
+  margin: 0 0 0 40vw;
+}
+.marvin #face-off img {
+  width: 35vw;
+  margin: 5vw 0 0 20vw;
+}
+.marvin .actually {
+  margin: 15vw 0 0 30vw;
+}
+.marvin #marvin-eyes img {
+  margin: 5vw 0 0 30vw;
+  width: 19vw;
+}
+.marvin .wasnt {
+  margin: 3vw 0 0 35vw;
+}
+.clothes {
+  width: 28vw;
+  position: absolute;
+  top: 14vw;
+  left: 96vw;
+}
+.off {
+  width: 28vw;
+  position: absolute;
+  top: 35vw;
+  left: 124vw;
+}
+.off p {
+  text-indent: -0.5vw;
+}
+.off .last {
+  margin: 0 0 0 10vw;
+}
+.roam {
+  position: absolute;
+  width: 90vw;
+  left: 131vw;
+  top: 69vw;
+}
+.roam .trail {
+  margin: 10vw 0 0 4vw;
+  text-indent: -0.5vw;
+}
+.roam .one-day {
+  margin: 3vw 0 0 4vw;
+}
+.roam .lovely {
+  margin: 15vw 0 0 0;
+}
+.roam .eyes {
+  margin: 7vw 0 0 10vw;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 60vw;
+}
+.roam .eyes img {
+  width: 25vw;
+  margin: 0 5vw;
+}
+.roam .eyes p {
+  margin: auto;
+}
+.roam .not-like {
+  margin: 20vw 0 0 10vw;
+}
+.roam .see {
+  margin: 1vw 0 0 10vw;
+}
+.stop {
+  position: absolute;
+  width: 50vw;
+  left: 128vw;
+  top: 234vw;
+  padding-bottom: 14vw;
+}
+.stop .meadow {
+  margin: 10vw 0 0 13vw;
+}
+.stop .keep {
+  margin: 0 0 0 13vw;
+}
+.stop .attention {
+  margin: 0 0 0 15.5vw;
+  text-indent: -2.5vw;
+}
+.stop .leave {
+  margin: 5vw 0 0 21vw;
+  text-indent: -8vw;
+}
+.stop .looking {
+  margin: 0.5vw 0 0 21vw;
+}
+.stop .coat {
+  margin: 1.5vw 0 0 21vw;
+}
+.stop .everything {
+  margin: 3.5vw 0 0 21vw;
+}
+.stop .why {
+  margin: 14vw 0 0 15vw;
+}
