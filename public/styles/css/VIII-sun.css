@@ -1,0 +1,207 @@
+body {
+  margin: 0;
+}
+.girl {
+  color: #d33519;
+}
+.reach {
+  width: 100vw;
+  position: relative;
+}
+.reach p {
+  margin: 30vh auto 0;
+  width: fit-content;
+}
+.reach .sequence {
+  display: grid;
+  grid-template-rows: repeat(3, min-content);
+  row-gap: 2vw;
+  margin: 50vh auto 0;
+  justify-content: center;
+}
+.reach .sequence img {
+  width: 25vw;
+}
+.reach .sequence #reach-1 {
+  margin-left: 2vw;
+}
+.reach .sequence #reach-2 {
+  margin-left: 6vw;
+}
+.reach .sequence #reach-3 {
+  margin-left: 11vw;
+}
+.grab {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  column-gap: 5vw;
+  justify-content: space-evenly;
+  margin: 10vw 0;
+}
+.grab p {
+  margin: auto;
+  display: block;
+  line-height: 2.5em;
+}
+.grab p .how {
+  margin-left: 11vw;
+}
+.grab img {
+  width: 30vw;
+  display: block;
+  margin: auto;
+}
+.argue {
+  padding: 10vw 15vw;
+}
+.argue .hear {
+  margin-left: 40vw;
+  text-indent: -5vw;
+}
+.argue .glad {
+  margin: 4vw 0 0 40vw;
+  text-indent: -1vw;
+}
+.argue .fitting {
+  margin-left: -2px;
+}
+.argue .is-it {
+  margin: 5vw 0 0 23vw;
+}
+.argue .repeat {
+  margin: 0 0 0 30vw;
+}
+.face img {
+  width: 35vw;
+}
+.face #girl-face {
+  margin: 0 0 0 38vw;
+}
+.face .truth .and-1 {
+  margin: 10vw 0 0 50vw;
+}
+.face .truth .and-2 {
+  margin: 7vw 0 0 54vw;
+}
+.face .truth .sometimes {
+  margin: 10vw 0 0 54vw;
+  text-indent: 0.5vw;
+}
+.face .truth .alive {
+  margin-left: 8px;
+}
+.face .truth .mistakes {
+  margin-left: 16px;
+}
+.face .truth .no {
+  margin: 5vw 0 0 55vw;
+  text-indent: -1vw;
+}
+.face .truth .horrible {
+  margin-left: 0.5vw;
+}
+.face .truth .cruel {
+  margin-left: 7px;
+}
+.face .truth .saw {
+  margin: 4vw 0 0 55vw;
+  text-indent: -0.5vw;
+}
+.face .truth .things {
+  margin: 0 0 0 57vw;
+  text-indent: -2vw;
+}
+.face .truth .wrong {
+  margin: 2vw 0 0 57vw;
+}
+.face #robot-face {
+  margin: 10vw 0 0 28vw;
+}
+.guilt {
+  margin: -8vw 0 0 96vw;
+  width: 135vw;
+}
+.guilt .think {
+  margin: 0;
+}
+.guilt .dont {
+  margin-left: 4vw;
+  text-indent: -3.5vw;
+}
+.guilt .intended {
+  margin: 7vw 0 0 2vw;
+  text-indent: -1vw;
+}
+.guilt .worse {
+  margin-left: -7px;
+}
+.guilt .my {
+  margin: 3vw 0 0 6vw;
+}
+.guilt .guiltless {
+  margin-left: 1vw;
+}
+.guilt #hat {
+  margin: -1vw 0 0 31vw;
+  width: 20vw;
+}
+.guilt .response-1 {
+  text-align: center;
+  margin: 23vw 0 0 40vw;
+  width: fit-content;
+}
+.guilt #together {
+  width: 22vw;
+  margin: 14vw 0 0 55vw;
+}
+.guilt .response-2 {
+  width: fit-content;
+  text-align: center;
+  margin: 10vw 0 0 -10vw;
+}
+.guilt .response-3 {
+  margin: 11vw 0 20vw 48vw;
+  text-indent: -2vw;
+}
+.guilt .not-afraid {
+  background-color: #f7ab33;
+}
+.guilt #grass-small {
+  width: 29vw;
+  margin: 20vw 0 25vw 60vw;
+}
+.guilt #grass-big {
+  width: 70vw;
+  margin: 0 0 0 40vw;
+}
+.end {
+  width: 50vw;
+  margin: 20vw 0 20vw 130vw;
+}
+.end .ready {
+  text-indent: -0.5vw;
+}
+.end .humans {
+  margin-left: 2vw;
+}
+.end .silent {
+  margin: 5vw 0 0 10vw;
+}
+.end .not-yet {
+  margin: 2vw 0 0 9.5vw;
+}
+.end .next {
+  margin: 2vw 0 0 8.5vw;
+}
+.begin {
+  width: 100vw;
+  height: 100vh;
+  background-color: red;
+  margin-left: 131vw;
+  position: relative;
+}
+.begin p {
+  margin: 0 auto 0;
+  width: fit-content;
+  padding-top: 50vh;
+}
