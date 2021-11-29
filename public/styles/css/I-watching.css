@@ -1,3 +1,23 @@
-#watching img {
+body {
+  margin: 0;
+  background-color: #638883;
+}
+#watching-1 img {
   width: 100vw;
+}
+#watching-2 {
+  position: relative;
+}
+#watching-2 img {
+  width: 42vw;
+  margin: auto;
+  display: block;
+}
+#watching-2 a {
+  display: block;
+  width: 20vw;
+  height: 20vw;
+  position: absolute;
+  top: 25vw;
+  left: 38vw;
 }

@@ -81,8 +81,19 @@ body {
   margin-top: 5vh;
   width: 25vw;
 }
+.bunker {
+  position: relative;
+}
 .bunker img {
-  margin-left: 60%;
-  margin-top: 5vh;
+  margin-left: 43vw;
+  margin-top: 10vw;
   width: 100vw;
+}
+.bunker a {
+  display: block;
+  width: 8vw;
+  height: 16vw;
+  position: absolute;
+  top: 37vw;
+  left: 99vw;
 }

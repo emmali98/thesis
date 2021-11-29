@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "thesis_orange",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,9 +7,9 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "less": "^4.1.2",
     "nodemon": "^2.0.6",
-    "path": "^0.12.7",
-    "less": "^4.1.2"
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",

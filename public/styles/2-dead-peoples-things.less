@@ -2,29 +2,150 @@ body {
   margin: 0;
 }
 
+.italic { font-style: italic;}
+.indent-in {
+  margin-left: 1.5vw;
+}
+.indent-in-2 {
+  margin-left: .5vw;
+}
+.indent-out {
+  margin-left: -1vw;
+}
+a { text-decoration: none;}
+
 .dead-land {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  height: 40vw;
 
   .text {
-    grid-column: 1;
     margin: auto;
   }
+  .confused { margin: 10vw 0 5vw 10vw;}
+  .different { margin: 0 0 0 4vw; }
+  .searched { margin: 0 0 0 7vw; }
+
   .image {
-    grid-column: 2 / 4;
     img { width: 100%; }
   }
+  #crossing {
+    display: flex;
+    align-items: flex-end;
+    gap: 1vw;
+    padding: 0 1vw;
+  }
+  #crossing-1 { margin-bottom: 3vw;}
 }
 
 .things {
   display: grid;
-  grid-template-rows: repeat(3, 100vh);
+  grid-template-rows: repeat(3, 60vw);
+  row-gap: 1vw;
+  position: relative;
 
+  img { max-width: 33vw;}
   .row {
     display: grid;
-    grid-template-columns: repeat(6, 50vw);
-    margin: 20vh;
+    grid-template-columns: repeat(4, 50vw);
+    position: relative;
+  }
+  .third { margin-top: 40vw; }
+
+  .alive {
+    position: absolute; top: 3vw; left: 2vw; text-align: center;}
+  .stuff { margin: 15vw 0 0 27vw; width: 50vw; }
+  .games { margin: 20vw 0 0 27vw; width: 50vw; }
+  .killing-games { margin: 32vw 0 0 19vw; }
+  .tell { position: absolute;
+    top: 45vw;
+    left: 143vw;
+    width: 20vw;}
+  .portal-2 { margin:83vw 0 0 -108vw; }
+  .mini-bunker { margin: -58vw 0 0 109vw; }
+  .movies { margin: 10vw 0 0 4vw; }
+  .why-made {position: absolute; text-align: center;
+    top: 56vw;
+    left: 31vw;}
+  .confusion { margin: 61vw 0 0 -4vw;}
+  .books { margin: 44vw 0 0 0; }
+  .disagree { margin: 67vw 0 0 -21vw;}
+  .cookbooks { position: absolute;
+    top: 74vw;
+    left: 93vw;
+    p { margin-left: 3vw; text-indent: -1vw;}
+  }
+  .where { position: absolute;
+    top: 69vw;
+    left: 161vw;
+    width: 20vw;}
+  .why { position: absolute;
+    top: 76vw;
+    left: 164vw;
+    width: 20vw;}
+  .angry {margin: 19vw 0 0 64vw;
+    width: 40vw;}
+  .sci-fi {margin: 56vw 0 10vw 65vw;
+    width: 50vw;
   }
 
+  .dead { padding-bottom: 10vw; }
+  .work-stuff { margin-left: 4vw; }
+  .lot {
+    margin-bottom: 3vw;
+    margin: 0 0 3vw 10vw;
+  }
+  .eternity { margin: 0 0 5vw 7vw;}
+  .visions { margin-bottom: 4vw;}
+  .dreams { margin-bottom: 3vw;}
+  .but { margin: 0 0 0 6vw; }
+  .like-that { margin: 0 0 0 13vw;}
+  .stop-seeing { margin-left: 10vw;}
+  .unbearable { margin: 12vw 0 3vw 3vw; }
+  .evil { margin-left: 5vw;}
+  .blood, .sleep, .morning { margin-left: 20vw;}
+  .stopped { margin: 10vw 0 0 12vw;}
+  .fun { margin: 0;}
+  .mindless { margin: 0 0 0 2vw; text-indent: -2vw;}
+  .loved { margin-left: -1vw;}
+  .ugly { text-indent: -1vw;}
+  .violent { margin: 3vw 0 0 3vw;}
+  .sickening { margin: 0 0 0 5vw;text-indent: -2vw;}
+  .lying { margin: 6vw 0 0 1vw; text-indent: 0.5vw;}
+  .right { margin: 7vw 0 0 8vw; }
+  .woman { margin-left: 1.5vw; text-indent: -1.5vw;}
+  .physical { margin-left: 0.5vw; text-indent: -1vw;}
+  .faster { text-indent: 2vw;}
+  .genres { margin-left:1vw; text-indent: -.5vw;}
+  .told {text-indent: -.5vw;}
+  .change {margin-left: 1vw; text-indent: -.5vw;}
+  .solve {margin-left: 2vw; text-indent: -1vw;}
+  .ruin {text-indent: .5vw;}
+  .yarn {margin-left: 3vw; text-indent: -.5vw;}
+  .fascinating {text-indent: .5vw;}
+  .looked {margin: 5vw 0 3vw 0;}
+  .instruments {text-indent: -1.5vw;}
+  .song {text-indent: -2vw;}
 
+  .hungry { margin: 0 0 0 3vw;}
+  .tired { margin: 0 0 0 3vw;}
+  .breathe { margin: 0 0 0 3vw; }
+  .warm { margin: 1vw 0 0 3.5vw;}
+  .cool { margin: 1vw 0 0 4vw;}
+  .body {margin: 1vw 0 3vw 5vw;}
+  .see { margin: 2vw 0 0 0;}
+  .exists {}
+  .suffering {margin: 5vw 0 0 6vw; text-indent: .5vw;}
+  .shelter {margin: .5vw 0 0 7vw; text-indent: -1vw;}
+  .purpose {margin: .5vw 0 0 6.5vw; text-indent: -.5vw;}
+  .luxury {margin: 1vw 0 0 6vw; text-indent: -1vw;}
+  .understand { margin: 9vw 0 0 8vw; text-indent: -6vw;}
+  .reading {margin-left: 2vw; margin-bottom: 2vw; text-indent: -.5vw;}
+  .robots {margin-left: -1vw; margin-top: 3vw;}
+  .characters {margin-left: 6vw;}
+  .dont-1 { margin: 3vw 0 6vw 6vw;}
+  .dont-2 {margin-left: 6vw;}
+  .before { margin: 14vw 0 0 3vw}
+
+  .block { margin-bottom: 5vw; }
+  .indent { margin-left: 4vw; }
+  .red-light { color: red; }
 }

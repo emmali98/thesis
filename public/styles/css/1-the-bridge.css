@@ -72,6 +72,12 @@ body {
 .bridge #bridge-figure img {
   max-width: 70vw;
 }
+.bridge #bridge-view {
+  margin-top: 10vh;
+}
+.bridge #bridge-view img {
+  max-width: 70vw;
+}
 .bridge #mini-bridge img {
   max-width: 40vw;
 }
@@ -127,4 +133,7 @@ body {
   padding-left: 120vw;
   color: #4c5079;
   width: 100vw;
+}
+.closing a {
+  text-decoration: none;
 }
