@@ -21,10 +21,10 @@ body {
   margin: auto;
 }
 .approach .image.girl img {
-  width: 10vw;
+  width: 15vw;
 }
 .approach .image.robot img {
-  width: 18vw;
+  width: 25vw;
 }
 .confession {
   position: absolute;
@@ -76,5 +76,13 @@ body {
   transform: translate(-50%, -50%);
 }
 .kill #square img {
-  width: 40vw;
+  width: 70vw;
+}
+.kill a {
+  display: block;
+  position: absolute;
+  width: 50vw;
+  height: 45vw;
+  top: 5vw;
+  left: 10vw;
 }
