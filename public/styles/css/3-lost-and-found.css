@@ -54,3 +54,10 @@ body {
   margin: auto;
   display: block;
 }
+.forest #in-forest-2 {
+  width: 35vw;
+  padding: 4vw 0 8vw;
+}
+.forest #in-forest-3 {
+  width: 70vw;
+}

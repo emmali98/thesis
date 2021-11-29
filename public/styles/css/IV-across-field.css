@@ -24,6 +24,15 @@ body {
 }
 .faces {
   width: 200vw;
+  position: relative;
+}
+.faces a {
+  display: block;
+  position: absolute;
+  top: 53vw;
+  left: 153vw;
+  height: 20vw;
+  width: 27vw;
 }
 .faces img {
   width: 33vw;

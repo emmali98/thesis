@@ -16,37 +16,37 @@ p {
 }
 .hi {
   top: 15vw;
-  left: 29vw;
+  left: 22vw;
 }
 .name {
-  top: 32vw;
+  top: 39vw;
   left: 50vw;
 }
 .come-here {
-  top: 37vw;
+  top: 46vw;
   left: 50vw;
 }
 .friendly {
-  top: 52vw;
-  left: 33vw;
-}
-.hmm {
   top: 61vw;
   left: 33vw;
 }
-.full-name {
-  top: 66vw;
+.hmm {
+  top: 69vw;
   left: 33vw;
 }
+.full-name {
+  top: 82vw;
+  left: 28vw;
+}
 .lovely-1 {
-  top: 78vw;
+  top: 101vw;
   left: 50vw;
 }
 .lovely-2 {
-  top: 82vw;
+  top: 108vw;
   left: 51vw;
 }
 .robot {
-  top: 110vw;
+  top: 147vw;
   left: 50vw;
 }
