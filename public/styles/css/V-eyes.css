@@ -1,8 +1,8 @@
 body {
   margin: 0;
 }
-#writing img {
+#writing {
   margin: 10vw auto;
   display: block;
-  width: 40vw;
+  text-align: center;
 }
