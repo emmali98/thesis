@@ -41,12 +41,17 @@
 }
 p {
   font-family: 'Bitter', serif;
+  color: #1023c9;
+}
+p.girl {
+  color: #eb770b;
 }
 a {
   text-decoration: none;
 }
 body {
   margin: 0;
+  background-color: #fffeee;
 }
 .pan-down {
   width: 100vw;

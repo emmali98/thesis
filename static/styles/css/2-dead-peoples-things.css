@@ -41,9 +41,14 @@
 }
 body {
   margin: 0;
+  background-color: #7b8eb8;
 }
 p {
   font-family: 'Bitter', serif;
+  color: bisque;
+}
+.girl p {
+  color: #ffad41;
 }
 .italic {
   font-style: italic;
@@ -94,7 +99,7 @@ a {
   position: relative;
 }
 .things img {
-  max-width: 33vw;
+  max-width: 31vw;
 }
 .things .row {
   display: grid;
@@ -131,7 +136,7 @@ a {
   margin: 83vw 0 0 -108vw;
 }
 .things .mini-bunker {
-  margin: -58vw 0 0 109vw;
+  margin: -58vw 0 0 111vw;
 }
 .things .movies {
   margin: 10vw 0 0 4vw;
@@ -220,7 +225,7 @@ a {
   margin-left: 20vw;
 }
 .things .stopped {
-  margin: 10vw 0 0 12vw;
+  margin: 17vw 0 0 17vw;
 }
 .things .fun {
   margin: 0;

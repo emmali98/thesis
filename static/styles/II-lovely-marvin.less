@@ -6,10 +6,15 @@
   font-family: 'Nova Mono', monospace;
 }
 
-p { .bitter(); }
+p {
+  .bitter();
+  color:rgb(240, 224, 11);
+  &.robot { color:rgb(175, 212, 255)}
+}
 
 body {
   margin: 0;
+  background-color: rgb(61, 94, 156);
 }
 
 .image {

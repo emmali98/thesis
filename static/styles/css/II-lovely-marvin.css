@@ -41,9 +41,14 @@
 }
 p {
   font-family: 'Bitter', serif;
+  color: #f0e00b;
+}
+p.robot {
+  color: #afd4ff;
 }
 body {
   margin: 0;
+  background-color: #3d5e9c;
 }
 .image {
   z-index: 0;

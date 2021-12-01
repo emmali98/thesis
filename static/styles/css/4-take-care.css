@@ -41,12 +41,14 @@
 }
 p {
   font-family: 'Bitter', serif;
+  color: #2b3812;
 }
 a {
   text-decoration: none;
 }
 body {
   margin: 0;
+  background-color: #ebd3af;
 }
 .italic {
   font-style: italic;

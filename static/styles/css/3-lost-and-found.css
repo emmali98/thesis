@@ -41,9 +41,11 @@
 }
 p {
   font-family: 'Bitter', serif;
+  color: #cfca98;
 }
 body {
   margin: 0;
+  background-color: #1d1f74;
 }
 .second {
   margin: 4% 10vw 5vw;
@@ -80,7 +82,8 @@ body {
 }
 .second-time p {
   margin-top: -12vw;
-  margin-left: 4vw;
+  margin-left: 2vw;
+  color: #1d1f74;
 }
 .second-time img {
   width: 50vw;

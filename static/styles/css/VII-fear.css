@@ -41,12 +41,14 @@
 }
 p {
   font-family: 'Bitter', serif;
+  color: #2e3999;
 }
 a {
   text-decoration: none;
 }
 body {
   margin: 0;
+  background-color: #abd2e9;
 }
 .question {
   width: 100vw;
@@ -115,6 +117,7 @@ body {
   top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
+  color: #be0c0c;
 }
 .kill #square {
   position: absolute;

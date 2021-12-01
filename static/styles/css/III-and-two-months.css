@@ -47,6 +47,7 @@ a {
 }
 body {
   margin: 0;
+  background: linear-gradient(180deg, #a8c9ff 30%, #fffcd3 35%, #fffcd3 90%);
 }
 .wide-shots {
   margin: 5vw 0;

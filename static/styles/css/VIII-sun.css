@@ -41,12 +41,14 @@
 }
 p {
   font-family: 'Bitter', serif;
+  color: #5066ac;
 }
 a {
   text-decoration: none;
 }
 body {
   margin: 0;
+  background-color: #fff4c4;
 }
 .girl {
   color: #d33519;
@@ -243,7 +245,6 @@ body {
 .begin {
   width: 100vw;
   height: 100vh;
-  background-color: red;
   margin-left: 131vw;
   position: relative;
 }

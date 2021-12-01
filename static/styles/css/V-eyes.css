@@ -44,13 +44,18 @@ p {
 }
 a {
   text-decoration: none;
+  color: orangered;
 }
 body {
   margin: 0;
+  background-color: papayawhip;
 }
 #writing {
-  margin: 10vw auto;
   display: block;
   text-align: center;
   color: #ca3b22;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

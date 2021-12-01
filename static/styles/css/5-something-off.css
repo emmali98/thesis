@@ -41,12 +41,14 @@
 }
 p {
   font-family: 'Bitter', serif;
+  color: #241f20;
 }
 a {
   text-decoration: none;
 }
 body {
   margin: 0;
+  background-color: #8cadcc;
 }
 .indent-1 {
   margin-left: -1vw;
